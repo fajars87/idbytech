@@ -1,0 +1,39 @@
+body {
+    background: #FDFDFD;
+}
+
+.navtop {
+    background: #F95454;
+}
+
+.navleft li {
+    display: inline-block;
+}
+
+.navleft li a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    padding: 15px 10px;
+}
+
+.navleft li a:hover {
+    color: black;
+}
+
+.navright li {
+    display: inline-block;
+}
+
+.navright li a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    padding: 15px 10px;
+}
+
+.navright li a:hover {
+    color: black;
+}
